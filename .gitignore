@@ -1,0 +1,11 @@
+
+.classpath
+
+.project
+
+*.prefs
+
+target/*
+
+
+src/test/java/com/ilwllc/sgerke/azure_iot_getstarted/AppTest.java
